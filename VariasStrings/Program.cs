@@ -31,6 +31,10 @@ namespace VariasStrings
             string sf = String.Format("Gosto de {0} e do nº {1}", "batata", 12);
             Console.WriteLine(sf);
             Console.WriteLine("Vou a {0} e o numero de y é {1}", "praia", y);
+            double xx = 0.12345;
+            int ii = 18;
+            Console.WriteLine("Real duas casas: {0:f2} e Percentagem: {0:p1}", xx);
+            Console.WriteLine("Hex: {0:x} e Moeda: {0:c}", ii);
         }
     }
 }
