@@ -24,6 +24,10 @@ namespace TiposVarios
             Console.WriteLine(d);
             Console.WriteLine(f);
             Console.WriteLine(m); 
+            bool t = true;
+            bool fl = 3 > 9;
+            Console.WriteLine(t);
+            Console.WriteLine(fl); 
         }
     }
 }
