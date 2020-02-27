@@ -18,6 +18,12 @@ namespace TiposVarios
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine(c); 
+            double d = 5.10;
+            float f = 64.39f;
+            decimal m = 3.1415m;
+            Console.WriteLine(d);
+            Console.WriteLine(f);
+            Console.WriteLine(m); 
         }
     }
 }
