@@ -17,7 +17,7 @@ namespace TiposVarios
             char c = '\u0031';
             Console.WriteLine(a);
             Console.WriteLine(b);
-            Console.WriteLine(c);
+            Console.WriteLine(c); 
         }
     }
 }
